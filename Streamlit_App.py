@@ -96,7 +96,7 @@ st.write("A l'exception des variables 'time-to-60' & 'year', les autres variable
 # st.pyplot(pairplot)
 
 
-# Scatter plots distribution
+# Scatterplot distribution
 
 st.subheader('Scatterplot Distribution')
 
