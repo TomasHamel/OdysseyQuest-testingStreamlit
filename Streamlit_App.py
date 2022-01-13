@@ -112,8 +112,3 @@ st.plotly_chart(fig4)
 
 st.subheader('This is the END !')
 st.caption('My only friend, ...')
-
-
-
-
-
